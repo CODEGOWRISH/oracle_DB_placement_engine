@@ -7,7 +7,7 @@ set verify off
 
 spool popplcservercpusum.sql
 
-select 'alter session set current_schema=ORAODRMGR;' from dual;
+select 'alter session set current_schema=ORAPLC;' from dual;
 
 select 'truncate table PLC_SERVER_CPU_SUM;' from dual;
 
