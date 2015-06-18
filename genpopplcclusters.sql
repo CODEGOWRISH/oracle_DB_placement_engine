@@ -7,7 +7,7 @@ set verify off
 
 spool popplcclusters.sql
 
-select 'alter session set current_schema=ORAODRMGR;' from dual;
+select 'alter session set current_schema=ORAPLC;' from dual;
 
 select distinct 'insert into plc_clusters (CLUSTER_NAME, CLUSTER_TYPE, PROD_OR_NON_PROD, CLUSTERWARE_VERSION)' || ' values (' ||
 '''' || a.composite_target_name || '''' || ',' ||
