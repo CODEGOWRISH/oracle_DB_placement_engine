@@ -1,0 +1,3 @@
+
+insert into plc_servers (SERVER_NAME, CLUSTER_NAME, CLUSTER_TYPE, SERVER_VENDOR, SERVER_CLASS, OS, CPU_CORE_COUNT, CPU_FREQUENCY_MHZ, CPU_VENDOR, CPU_CLASS, MEMORY_GB, MEMORY_FREQUENCY) values ('server1','cld1','RAC','Non Dell','PowerEdge R900','RHEL5',16,2925.864,'Intel Based Hardware','Intel Based Hardware',63,0);                                                                                                                            
+insert into plc_servers (SERVER_NAME, CLUSTER_NAME, CLUSTER_TYPE, SERVER_VENDOR, SERVER_CLASS, OS, CPU_CORE_COUNT, CPU_FREQUENCY_MHZ, CPU_VENDOR, CPU_CLASS, MEMORY_GB, MEMORY_FREQUENCY) values ('server10','clp1','RAC','Non Dell','x86_64','RHEL5',24,2400.069,'Intel Based Hardware','Intel Based Hardware',252,0);   
