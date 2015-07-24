@@ -1,0 +1,2 @@
+insert into PLC_SERVER_CPU_SUM values ('server1',31,72,31,0,0,0,0,0,0,0,0,0);                                                                                                                                                                                                                                                                                                                                                                         
+insert into PLC_SERVER_CPU_SUM values ('server2',2,4,2,0,0,0,0,0,0,0,0,0); 
