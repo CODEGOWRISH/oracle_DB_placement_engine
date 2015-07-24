@@ -1,0 +1,3 @@
+
+insert into PLC_SERVER_MEMORY_SUM values ('server1',0,0,0,0,0,0,26,29,26,0,0,0);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+insert into PLC_SERVER_MEMORY_SUM values ('server2',0,0,0,0,0,0,5,5,5,0,0,0                         ); 
